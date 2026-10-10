@@ -1,0 +1,784 @@
+[
+  {
+    "id": "xu",
+    "title": "Knowledge Conflicts for LLMs: A Survey",
+    "authors": [
+      "Rongwu Xu",
+      "Zehan Qi",
+      "Zhijiang Guo",
+      "Cunxiang Wang",
+      "Hongru Wang",
+      "Yue Zhang",
+      "Wei Xu"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    "url": "https://aclanthology.org/2024.emnlp-main.486/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "belief",
+    "title": "Belief Revision: The Adaptability of Large Language Models Reasoning",
+    "authors": [
+      "Bryan Wilie",
+      "Samuel Cahyawijaya",
+      "Etsuko Ishii",
+      "Junxian He",
+      "Pascale Fung"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    "url": "https://aclanthology.org/2024.emnlp-main.586/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "clash",
+    "title": "ClashEval: Quantifying the tug-of-war between an LLM's internal prior and external evidence",
+    "authors": [
+      "Wu, Kevin",
+      "Wu, Eric",
+      "Zou, James"
+    ],
+    "year": 2024,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2404.10198",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "xie",
+    "title": "Adaptive Chameleon or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflicts",
+    "authors": [
+      "Xie, Jian",
+      "Zhang, Kai",
+      "Chen, Jiangjie",
+      "Lou, Renze",
+      "Su, Yu"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2305.13300",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "wiki",
+    "title": "WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia",
+    "authors": [
+      "Hou, Yufang",
+      "Pascale, Alessandra",
+      "Carnerero-Cano, Javier",
+      "Tchrakian, Tigran",
+      "Marinescu, Radu",
+      "Daly, Elizabeth",
+      "Padhi, Inkit",
+      "Sattigeri, Prasanna"
+    ],
+    "year": 2024,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2406.13805",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "situated",
+    "title": "SituatedQA: Incorporating Extra-Linguistic Contexts into QA",
+    "authors": [
+      "Michael Zhang",
+      "Eunsol Choi"
+    ],
+    "year": 2021,
+    "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    "url": "https://aclanthology.org/2021.emnlp-main.586/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "flip",
+    "title": "Are You Sure? Challenging LLMs Leads to Performance Drops in The FlipFlop Experiment",
+    "authors": [
+      "Laban, Philippe",
+      "Murakhovs'ka, Lidiya",
+      "Xiong, Caiming",
+      "Wu, Chien-Sheng"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2311.08596",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "syc",
+    "title": "Towards Understanding Sycophancy in Language Models",
+    "authors": [
+      "Sharma, Mrinank",
+      "Tong, Meg",
+      "Korbak, Tomasz",
+      "Duvenaud, David",
+      "Askell, Amanda",
+      "Bowman, Samuel R.",
+      "Cheng, Newton",
+      "Durmus, Esin",
+      "Hatfield-Dodds, Zac",
+      "Johnston, Scott R.",
+      "Kravec, Shauna",
+      "Maxwell, Timothy",
+      "McCandlish, Sam",
+      "Ndousse, Kamal",
+      "Rausch, Oliver",
+      "Schiefer, Nicholas",
+      "Yan, Da",
+      "Zhang, Miranda",
+      "Perez, Ethan"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2310.13548",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "mquake",
+    "title": "MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions",
+    "authors": [
+      "Zhong, Zexuan",
+      "Wu, Zhengxuan",
+      "Manning, Christopher D.",
+      "Potts, Christopher",
+      "Chen, Danqi"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2305.14795",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "cove",
+    "title": "Chain-of-Verification Reduces Hallucination in Large Language Models",
+    "authors": [
+      "Shehzaad Dhuliawala",
+      "Mojtaba Komeili",
+      "Jing Xu",
+      "Roberta Raileanu",
+      "Xian Li",
+      "Asli Celikyilmaz",
+      "Jason Weston"
+    ],
+    "year": 2024,
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2024",
+    "url": "https://aclanthology.org/2024.findings-acl.212/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "selfrag",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "authors": [
+      "Asai, Akari",
+      "Wu, Zeqiu",
+      "Wang, Yizhong",
+      "Sil, Avirup",
+      "Hajishirzi, Hannaneh"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2310.11511",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "cad",
+    "title": "Trusting Your Evidence: Hallucinate Less with Context-aware Decoding",
+    "authors": [
+      "Weijia Shi",
+      "Xiaochuang Han",
+      "Mike Lewis",
+      "Yulia Tsvetkov",
+      "Luke Zettlemoyer",
+      "Wen-tau Yih"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 2: Short Papers)",
+    "url": "https://aclanthology.org/2024.naacl-short.69/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "wei",
+    "title": "Simple synthetic data reduces sycophancy in large language models",
+    "authors": [
+      "Wei, Jerry",
+      "Huang, Da",
+      "Lu, Yifeng",
+      "Zhou, Denny",
+      "Le, Quoc V."
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2308.03958",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "astute",
+    "title": "Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models",
+    "authors": [
+      "Fei Wang",
+      "Xingchen Wan",
+      "Ruoxi Sun",
+      "Jiefeng Chen",
+      "Sercan O Arik"
+    ],
+    "year": 2025,
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.acl-long.1476/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "travel",
+    "title": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
+    "authors": [
+      "Xie, Jian",
+      "Zhang, Kai",
+      "Chen, Jiangjie",
+      "Zhu, Tinghui",
+      "Lou, Renze",
+      "Tian, Yuandong",
+      "Xiao, Yanghua",
+      "Su, Yu"
+    ],
+    "year": 2024,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2402.01622",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "flex",
+    "title": "Flex-TravelPlanner: A Benchmark for Flexible Planning with Language Agents",
+    "authors": [
+      "Oh, Juhyun",
+      "Kim, Eunsu",
+      "Oh, Alice"
+    ],
+    "year": 2025,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2506.04649",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "follow",
+    "title": "FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models",
+    "authors": [
+      "Yuxin Jiang",
+      "Yufei Wang",
+      "Xingshan Zeng",
+      "Wanjun Zhong",
+      "Liangyou Li",
+      "Fei Mi",
+      "Lifeng Shang",
+      "Xin Jiang",
+      "Qun Liu",
+      "Wei Wang"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2024.acl-long.257/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "ifeval",
+    "title": "Instruction-Following Evaluation for Large Language Models",
+    "authors": [
+      "Zhou, Jeffrey",
+      "Lu, Tianjian",
+      "Mishra, Swaroop",
+      "Brahma, Siddhartha",
+      "Basu, Sujoy",
+      "Luan, Yi",
+      "Zhou, Denny",
+      "Hou, Le"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2311.07911",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "multi",
+    "title": "Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions Following",
+    "authors": [
+      "He, Yun",
+      "Jin, Di",
+      "Wang, Chaoqi",
+      "Bi, Chloe",
+      "Mandyam, Karishma",
+      "Zhang, Hejia",
+      "Zhu, Chen",
+      "Li, Ning",
+      "Xu, Tengyu",
+      "Lv, Hongjiang",
+      "Bhosale, Shruti",
+      "Zhu, Chenguang",
+      "Sankararaman, Karthik Abinav",
+      "Helenowski, Eryk",
+      "Kambadur, Melanie",
+      "Tayade, Aditya",
+      "Ma, Hao",
+      "Fang, Han",
+      "Wang, Sinong"
+    ],
+    "year": 2024,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2410.15553",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "lost",
+    "title": "LLMs Get Lost In Multi-Turn Conversation",
+    "authors": [
+      "Laban, Philippe",
+      "Hayashi, Hiroaki",
+      "Zhou, Yingbo",
+      "Neville, Jennifer"
+    ],
+    "year": 2025,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2505.06120",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "generic",
+    "title": "Are LLMs classical or nonmonotonic reasoners? Lessons from generics",
+    "authors": [
+      "Alina Leidinger",
+      "Robert Van Rooij",
+      "Ekaterina Shutova"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    "url": "https://aclanthology.org/2024.acl-short.51/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "defeasible",
+    "title": "Thinking Like a Skeptic: Defeasible Inference in Natural Language",
+    "authors": [
+      "Rachel Rudinger",
+      "Vered Shwartz",
+      "Jena D. Hwang",
+      "Chandra Bhagavatula",
+      "Maxwell Forbes",
+      "Ronan Le Bras",
+      "Noah A. Smith",
+      "Yejin Choi"
+    ],
+    "year": 2020,
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020",
+    "url": "https://aclanthology.org/2020.findings-emnlp.418/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "memory",
+    "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+    "authors": [
+      "Wu, Di",
+      "Wang, Hongwei",
+      "Yu, Wenhao",
+      "Zhang, Yuwei",
+      "Chang, Kai-Wei",
+      "Yu, Dong"
+    ],
+    "year": 2024,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2410.10813",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "react",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "authors": [
+      "Yao, Shunyu",
+      "Zhao, Jeffrey",
+      "Yu, Dian",
+      "Du, Nan",
+      "Shafran, Izhak",
+      "Narasimhan, Karthik",
+      "Cao, Yuan"
+    ],
+    "year": 2022,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "refine",
+    "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+    "authors": [
+      "Madaan, Aman",
+      "Tandon, Niket",
+      "Gupta, Prakhar",
+      "Hallinan, Skyler",
+      "Gao, Luyu",
+      "Wiegreffe, Sarah",
+      "Alon, Uri",
+      "Dziri, Nouha",
+      "Prabhumoye, Shrimai",
+      "Yang, Yiming",
+      "Gupta, Shashank",
+      "Majumder, Bodhisattwa Prasad",
+      "Hermann, Katherine",
+      "Welleck, Sean",
+      "Yazdanbakhsh, Amir",
+      "Clark, Peter"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2303.17651",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "plan",
+    "title": "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models",
+    "authors": [
+      "Lei Wang",
+      "Wanyu Xu",
+      "Yihuai Lan",
+      "Zhiqiang Hu",
+      "Yunshi Lan",
+      "Roy Ka-Wei Lee",
+      "Ee-Peng Lim"
+    ],
+    "year": 2023,
+    "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2023.acl-long.147/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "plusp",
+    "title": "LLM+P: Empowering Large Language Models with Optimal Planning Proficiency",
+    "authors": [
+      "Liu, Bo",
+      "Jiang, Yuqian",
+      "Zhang, Xiaohan",
+      "Liu, Qiang",
+      "Zhang, Shiqi",
+      "Biswas, Joydeep",
+      "Stone, Peter"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2304.11477",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "modulo",
+    "title": "LLMs Can't Plan, But Can Help Planning in LLM-Modulo Frameworks",
+    "authors": [
+      "Kambhampati, Subbarao",
+      "Valmeekam, Karthik",
+      "Guan, Lin",
+      "Verma, Mudit",
+      "Stechly, Kaya",
+      "Bhambri, Siddhant",
+      "Saldyt, Lucas",
+      "Murthy, Anil"
+    ],
+    "year": 2024,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2402.01817",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "memgpt",
+    "title": "MemGPT: Towards LLMs as Operating Systems",
+    "authors": [
+      "Packer, Charles",
+      "Wooders, Sarah",
+      "Lin, Kevin",
+      "Fang, Vivian",
+      "Patil, Shishir G.",
+      "Stoica, Ion",
+      "Gonzalez, Joseph E."
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2310.08560",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "ambig",
+    "title": "AmbigQA: Answering Ambiguous Open-domain Questions",
+    "authors": [
+      "Sewon Min",
+      "Julian Michael",
+      "Hannaneh Hajishirzi",
+      "Luke Zettlemoyer"
+    ],
+    "year": 2020,
+    "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    "url": "https://aclanthology.org/2020.emnlp-main.466/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "clamber",
+    "title": "CLAMBER: A Benchmark of Identifying and Clarifying Ambiguous Information Needs in Large Language Models",
+    "authors": [
+      "Tong Zhang",
+      "Peixin Qin",
+      "Yang Deng",
+      "Chen Huang",
+      "Wenqiang Lei",
+      "Junhong Liu",
+      "Dingnan Jin",
+      "Hongru Liang",
+      "Tat-Seng Chua"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2024.acl-long.578/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "sufficient",
+    "title": "Sufficient Context: A New Lens on Retrieval Augmented Generation Systems",
+    "authors": [
+      "Joren, Hailey",
+      "Zhang, Jianyi",
+      "Ferng, Chun-Sung",
+      "Juan, Da-Cheng",
+      "Taly, Ankur",
+      "Rashtchian, Cyrus"
+    ],
+    "year": 2024,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2411.06037",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "xiong",
+    "title": "Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs",
+    "authors": [
+      "Xiong, Miao",
+      "Hu, Zhiyuan",
+      "Lu, Xinyang",
+      "Li, Yifei",
+      "Fu, Jie",
+      "He, Junxian",
+      "Hooi, Bryan"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2306.13063",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "band",
+    "title": "Linguistic Calibration of Long-Form Generations",
+    "authors": [
+      "Neil Band",
+      "Xuechen Li",
+      "Tengyu Ma",
+      "Tatsunori Hashimoto"
+    ],
+    "year": 2024,
+    "venue": "International Conference on Machine Learning",
+    "url": "https://proceedings.mlr.press/v235/band24a.html",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "clam",
+    "title": "CLAM: Selective Clarification for Ambiguous Questions with Generative Language Models",
+    "authors": [
+      "Kuhn, Lorenz",
+      "Gal, Yarin",
+      "Farquhar, Sebastian"
+    ],
+    "year": 2022,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2212.07769",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "entropy",
+    "title": "Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation",
+    "authors": [
+      "Kuhn, Lorenz",
+      "Gal, Yarin",
+      "Farquhar, Sebastian"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2302.09664",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "abstain",
+    "title": "AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions",
+    "authors": [
+      "Kirichenko, Polina",
+      "Ibrahim, Mark",
+      "Chaudhuri, Kamalika",
+      "Bell, Samuel J."
+    ],
+    "year": 2025,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2506.09038",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "know",
+    "title": "Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners",
+    "authors": [
+      "Allen Z. Ren",
+      "Anushri Dixit",
+      "Alexandra Bodrova",
+      "Sumeet Singh",
+      "Stephen Tu",
+      "Noah Brown",
+      "Peng Xu",
+      "Leila Takayama",
+      "Fei Xia",
+      "Jake Varley",
+      "Zhenjia Xu",
+      "Dorsa Sadigh",
+      "Andy Zeng",
+      "Anirudha Majumdar"
+    ],
+    "year": 2023,
+    "venue": "Conference on Robot Learning",
+    "url": "https://proceedings.mlr.press/v229/ren23a.html",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "selective",
+    "title": "Selective Question Answering under Domain Shift",
+    "authors": [
+      "Amita Kamath",
+      "Robin Jia",
+      "Percy Liang"
+    ],
+    "year": 2020,
+    "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    "url": "https://aclanthology.org/2020.acl-main.503/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "lin",
+    "title": "Teaching Models to Express Their Uncertainty in Words",
+    "authors": [
+      "Lin, Stephanie",
+      "Hilton, Jacob",
+      "Evans, Owain"
+    ],
+    "year": 2022,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2205.14334",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "xstest",
+    "title": "XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models",
+    "authors": [
+      "Paul Röttger",
+      "Hannah Kirk",
+      "Bertie Vidgen",
+      "Giuseppe Attanasio",
+      "Federico Bianchi",
+      "Dirk Hovy"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2024.naacl-long.301/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "tau",
+    "title": "$\\tau$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+    "authors": [
+      "Yao, Shunyu",
+      "Shinn, Noah",
+      "Razavi, Pedram",
+      "Narasimhan, Karthik"
+    ],
+    "year": 2024,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2406.12045",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "rationale",
+    "title": "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting",
+    "authors": [
+      "Turpin, Miles",
+      "Michael, Julian",
+      "Perez, Ethan",
+      "Bowman, Samuel R."
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2305.04388",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "lmiddle",
+    "title": "Lost in the Middle: How Language Models Use Long Contexts",
+    "authors": [
+      "Nelson F. Liu",
+      "Kevin Lin",
+      "John Hewitt",
+      "Ashwin Paranjape",
+      "Michele Bevilacqua",
+      "Fabio Petroni",
+      "Percy Liang"
+    ],
+    "year": 2024,
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "url": "https://aclanthology.org/2024.tacl-1.9/",
+    "edition": "Publisher record"
+  },
+  {
+    "id": "judge",
+    "title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena",
+    "authors": [
+      "Zheng, Lianmin",
+      "Chiang, Wei-Lin",
+      "Sheng, Ying",
+      "Zhuang, Siyuan",
+      "Wu, Zhanghao",
+      "Zhuang, Yonghao",
+      "Lin, Zi",
+      "Li, Zhuohan",
+      "Li, Dacheng",
+      "Xing, Eric P.",
+      "Zhang, Hao",
+      "Gonzalez, Joseph E.",
+      "Stoica, Ion"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2306.05685",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "prompt",
+    "title": "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting",
+    "authors": [
+      "Sclar, Melanie",
+      "Choi, Yejin",
+      "Tsvetkov, Yulia",
+      "Suhr, Alane"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2310.11324",
+    "edition": "First arXiv posting"
+  },
+  {
+    "id": "mediq",
+    "title": "MediQ: Question-Asking LLMs and a Benchmark for Reliable Interactive Clinical Reasoning",
+    "authors": [
+      "Li, Shuyue Stella",
+      "Balachandran, Vidhisha",
+      "Feng, Shangbin",
+      "Ilgen, Jonathan S.",
+      "Pierson, Emma",
+      "Koh, Pang Wei",
+      "Tsvetkov, Yulia"
+    ],
+    "year": 2024,
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2406.00922",
+    "edition": "First arXiv posting"
+  }
+]

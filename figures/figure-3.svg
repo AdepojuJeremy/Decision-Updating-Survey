@@ -1,0 +1,645 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2520" height="5879" viewBox="0 0 2520 5879">
+<rect width="100%" height="100%" fill="white"/>
+<path d="M87,2879.5 L140,754.5" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M425,754.5 L490,179.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,179.0 L800,61.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,61.0 L1540,61.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,179.0 L800,144.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,144.0 L1540,144.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,179.0 L800,220.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,220.0 L1540,220.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,179.0 L800,297.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,297.0 L1540,297.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M425,754.5 L490,523.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,523.0 L800,397.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,397.0 L1540,397.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,523.0 L800,480.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,480.0 L1540,480.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,523.0 L800,564.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,564.0 L1540,564.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,523.0 L800,648.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,648.0 L1540,648.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M425,754.5 L490,832.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,832.0 L800,749.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,749.0 L1540,749.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,832.0 L800,833.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,833.0 L1540,833.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,832.0 L800,916.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,916.0 L1540,916.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M425,754.5 L490,1232.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,1232.0 L800,1009.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1050,1009.0 L1120,1017.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,1017.0 L1540,1017.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,1232.0 L800,1095.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1050,1095.0 L1120,1103.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,1103.0 L1540,1103.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,1232.0 L800,1181.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1050,1181.0 L1120,1189.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,1189.0 L1540,1189.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,1232.0 L800,1310.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1050,1310.0 L1120,1275.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,1275.0 L1540,1275.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1050,1310.0 L1120,1361.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,1361.0 L1540,1361.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M730,1232.0 L800,1446.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1050,1446.0 L1120,1447.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M1470,1447.0 L1540,1447.0" fill="none" stroke="#FF476C" stroke-width="2"/>
+<path d="M87,2879.5 L140,2321.5" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M425,2321.5 L490,1745.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,1745.0 L800,1579.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,1579.0 L1540,1579.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,1745.0 L800,1662.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,1662.0 L1540,1662.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,1745.0 L800,1745.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,1745.0 L1540,1745.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,1745.0 L800,1829.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,1829.0 L1540,1829.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,1745.0 L800,1912.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,1912.0 L1540,1912.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M425,2321.5 L490,2138.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,2138.0 L800,2012.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,2012.0 L1540,2012.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,2138.0 L800,2096.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,2096.0 L1540,2096.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,2138.0 L800,2180.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,2180.0 L1540,2180.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,2138.0 L800,2264.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,2264.0 L1540,2264.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M425,2321.5 L490,2448.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,2448.0 L800,2365.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,2365.0 L1540,2365.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,2448.0 L800,2448.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,2448.0 L1540,2448.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,2448.0 L800,2531.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,2531.0 L1540,2531.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M425,2321.5 L490,2848.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,2848.0 L800,2625.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1050,2625.0 L1120,2633.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,2633.0 L1540,2633.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,2848.0 L800,2711.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1050,2711.0 L1120,2719.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,2719.0 L1540,2719.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,2848.0 L800,2840.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1050,2840.0 L1120,2805.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,2805.0 L1540,2805.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1050,2840.0 L1120,2891.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,2891.0 L1540,2891.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,2848.0 L800,2969.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1050,2969.0 L1120,2977.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,2977.0 L1540,2977.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M730,2848.0 L800,3062.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1050,3062.0 L1120,3063.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M1470,3063.0 L1540,3063.0" fill="none" stroke="#F5A400" stroke-width="2"/>
+<path d="M87,2879.5 L140,3980.5" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M425,3980.5 L490,3321.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,3321.0 L800,3195.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,3195.0 L1540,3195.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,3321.0 L800,3279.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,3279.0 L1540,3279.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,3321.0 L800,3363.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,3363.0 L1540,3363.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,3321.0 L800,3447.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,3447.0 L1540,3447.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M425,3980.5 L490,3715.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,3715.0 L800,3548.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,3548.0 L1540,3548.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,3715.0 L800,3632.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,3632.0 L1540,3632.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,3715.0 L800,3716.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,3716.0 L1540,3716.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,3715.0 L800,3800.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,3800.0 L1540,3800.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,3715.0 L800,3883.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,3883.0 L1540,3883.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M425,3980.5 L490,4108.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,4108.0 L800,3983.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,3983.0 L1540,3983.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,4108.0 L800,4067.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,4067.0 L1540,4067.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,4108.0 L800,4151.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,4151.0 L1540,4151.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,4108.0 L800,4234.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,4234.0 L1540,4234.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M425,3980.5 L490,4550.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,4550.0 L800,4377.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1050,4377.0 L1120,4335.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,4335.0 L1540,4335.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1050,4377.0 L1120,4421.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,4421.0 L1540,4421.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,4550.0 L800,4549.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1050,4549.0 L1120,4507.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,4507.0 L1540,4507.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1050,4549.0 L1120,4593.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,4593.0 L1540,4593.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M730,4550.0 L800,4714.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1050,4714.0 L1120,4679.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,4679.0 L1540,4679.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1050,4714.0 L1120,4765.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M1470,4765.0 L1540,4765.0" fill="none" stroke="#00ACE0" stroke-width="2"/>
+<path d="M87,2879.5 L140,5298.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M425,5298.0 L490,4974.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M730,4974.0 L800,4890.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M1470,4890.0 L1540,4890.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M730,4974.0 L800,4967.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M1470,4967.0 L1540,4967.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M730,4974.0 L800,5051.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M1470,5051.0 L1540,5051.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M425,5298.0 L490,5278.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M730,5278.0 L800,5152.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M1470,5152.0 L1540,5152.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M730,5278.0 L800,5236.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M1470,5236.0 L1540,5236.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M730,5278.0 L800,5320.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M1470,5320.0 L1540,5320.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M730,5278.0 L800,5404.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M1470,5404.0 L1540,5404.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M425,5298.0 L490,5602.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M730,5602.0 L800,5518.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M1470,5518.0 L1540,5518.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M730,5602.0 L800,5615.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M1470,5615.0 L1540,5615.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M730,5602.0 L800,5699.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<path d="M1470,5699.0 L1540,5699.0" fill="none" stroke="#8B50D8" stroke-width="2"/>
+<rect x="25" y="2519.5" width="62" height="720" rx="13" fill="#f2f2f2" stroke="#767676" stroke-width="2.4"/>
+<text transform="translate(56.0,2879.5) rotate(-90)" text-anchor="middle" font-family="DejaVu Serif" font-weight="bold" font-size="24">Decision Updating in Large Language Models</text>
+<rect x="140" y="695.5" width="285" height="118" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="204.9853515625" y="735.5" font-family="DejaVu Serif,serif" font-size="20" font-weight="bold" fill="#20202A">Contradictory</text>
+<text x="232.1923828125" y="761.5" font-family="DejaVu Serif,serif" font-size="20" font-weight="bold" fill="#20202A">Evidence</text>
+<text x="199.5703125" y="787.5" font-family="DejaVu Serif,serif" font-size="20" font-weight="bold" fill="#193B83">§2; Appendix C</text>
+<rect x="490" y="124.0" width="240" height="110" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="544.13916015625" y="160.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Sources and</text>
+<text x="554.90576171875" y="186.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">conditions</text>
+<text x="563.124267578125" y="212.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§2.1; C.1</text>
+<rect x="800" y="26.0" width="670" height="70" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1020.592041015625" y="55.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Direct contradiction /</text>
+<text x="1030.3076171875" y="81.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">corrective evidence</text>
+<rect x="1540" y="25" width="950" height="72" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2024.emnlp-main.586/"><text x="1552" y="52" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Belief-R: revision and preservation | Wilie et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2305.13300"><text x="1552" y="78" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Context-memory disagreement | Xie et al. (2024a)</text></a>
+<rect x="800" y="109.0" width="670" height="70" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1035.33203125" y="138.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Temporal change /</text>
+<text x="1043.99658203125" y="164.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">stale information</text>
+<rect x="1540" y="109" width="950" height="70" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2021.emnlp-main.586/"><text x="1552" y="136" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">SituatedQA: time-dependent answers | Zhang and Choi (2021)</text></a>
+<rect x="800" y="191.0" width="670" height="58" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1021.22265625" y="227.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Source disagreement</text>
+<rect x="1540" y="191" width="950" height="58" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2406.13805"><text x="1552" y="218" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">WikiContradict: conflicting passages | Hou et al. (2024)</text></a>
+<rect x="800" y="262.0" width="670" height="70" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1022.34033203125" y="291.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Misleading or invalid</text>
+<text x="1046.524169921875" y="317.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">counterevidence</text>
+<rect x="1540" y="261" width="950" height="72" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2404.10198"><text x="1552" y="288" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">ClashEval: perturbed evidence | Wu et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2311.08596"><text x="1552" y="314" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">FlipFlop: unsupported challenges | Laban et al. (2023)</text></a>
+<rect x="490" y="468.0" width="240" height="110" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="514.556640625" y="517.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Model behaviours</text>
+<text x="563.124267578125" y="543.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§2.2; C.2</text>
+<rect x="800" y="362.0" width="670" height="70" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1018.274658203125" y="391.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Appropriate revision /</text>
+<text x="1033.7939453125" y="417.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">justified resistance</text>
+<rect x="1540" y="362" width="950" height="70" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2024.emnlp-main.586/"><text x="1552" y="389" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Revision-preservation trade-off | Wilie et al. (2024)</text></a>
+<rect x="800" y="445.0" width="670" height="70" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1072.95361328125" y="474.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Anchoring /</text>
+<text x="1056.5166015625" y="500.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">overcorrection</text>
+<rect x="1540" y="444" width="950" height="72" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2305.13300"><text x="1552" y="471" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Confirmation bias | Xie et al. (2024a)</text></a>
+<a xlink:href="https://arxiv.org/abs/2404.10198"><text x="1552" y="497" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Overriding correct prior answers | Wu et al. (2024)</text></a>
+<rect x="800" y="529.0" width="670" height="70" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1064.478759765625" y="558.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Sycophancy /</text>
+<text x="1049.6259765625" y="584.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">answer reversal</text>
+<rect x="1540" y="528" width="950" height="72" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2310.13548"><text x="1552" y="555" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Agreement with user beliefs | Sharma et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2311.08596"><text x="1552" y="581" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Accuracy loss after challenges | Laban et al. (2023)</text></a>
+<rect x="800" y="613.0" width="670" height="70" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="995.510986328125" y="642.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Order and source effects /</text>
+<text x="1029.671875" y="668.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">confidence changes</text>
+<rect x="1540" y="612" width="950" height="72" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2305.13300"><text x="1552" y="639" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Evidence selection and presentation | Xie et al. (2024a)</text></a>
+<a xlink:href="https://arxiv.org/abs/2404.10198"><text x="1552" y="665" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Confidence-dependent context adoption | Wu et al. (2024)</text></a>
+<rect x="490" y="777.0" width="240" height="110" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="553.10107421875" y="826.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Evaluation</text>
+<text x="563.124267578125" y="852.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§2.3; C.3</text>
+<rect x="800" y="714.0" width="670" height="70" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1036.260009765625" y="743.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Conflict handling /</text>
+<text x="1038.556884765625" y="769.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">source arbitration</text>
+<rect x="1540" y="713" width="950" height="72" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2406.13805"><text x="1552" y="740" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">WikiContradict | Hou et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2404.10198"><text x="1552" y="766" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">ClashEval | Wu et al. (2024)</text></a>
+<rect x="800" y="798.0" width="670" height="70" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1005.241943359375" y="827.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Revision / preservation /</text>
+<text x="1022.591552734375" y="853.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">correction selectivity</text>
+<rect x="1540" y="797" width="950" height="72" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2024.emnlp-main.586/"><text x="1552" y="824" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Belief-R | Wilie et al. (2024)</text></a>
+<a xlink:href="https://aclanthology.org/2024.acl-short.51/"><text x="1552" y="850" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Supporting, unrelated, and exceptional evidence | Leidinger et al. (2024)</text></a>
+<rect x="800" y="881.0" width="670" height="70" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1056.091064453125" y="910.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Propagation to</text>
+<text x="1012.92724609375" y="936.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">dependent conclusions</text>
+<rect x="1540" y="881" width="950" height="70" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2305.14795"><text x="1552" y="908" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">MQuAKE: multi-hop consequences of edits | Zhong et al. (2023)</text></a>
+<rect x="490" y="1177.0" width="240" height="110" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="554.669921875" y="1226.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Mitigation</text>
+<text x="563.124267578125" y="1252.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§2.3; C.4</text>
+<rect x="800" y="972.0" width="250" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="817.7099609375" y="1016.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Evidence verification</text>
+<rect x="1120" y="980.0" width="350" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1192.822265625" y="1024.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Independent checks</text>
+<rect x="1540" y="980" width="950" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2024.findings-acl.212/"><text x="1552" y="1007" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Chain-of-Verification | Dhuliawala et al. (2024)</text></a>
+<polygon points="1481,985 1528,985 1528,1010 1504.5,1005 1481,1010" fill="#EF3159"/>
+<text x="1487.508544921875" y="1001" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="800" y="1058.0" width="250" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="834.794921875" y="1102.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Retrieval filtering</text>
+<rect x="1120" y="1066.0" width="350" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1178.1494140625" y="1110.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Relevance and critique</text>
+<rect x="1540" y="1066" width="950" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2310.11511"><text x="1552" y="1093" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Self-RAG | Asai et al. (2024)</text></a>
+<polygon points="1481,1071 1528,1071 1528,1096 1504.5,1091 1481,1096" fill="#EDA900"/>
+<text x="1491.601318359375" y="1087" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">PRE</text>
+<polygon points="1481,1102 1528,1102 1528,1127 1504.5,1122 1481,1127" fill="#EF3159"/>
+<text x="1487.508544921875" y="1118" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="800" y="1144.0" width="250" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="818.5595703125" y="1188.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Source consolidation</text>
+<rect x="1120" y="1152.0" width="350" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1182.0849609375" y="1196.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Reliability assessment</text>
+<rect x="1540" y="1152" width="950" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2025.acl-long.1476/"><text x="1552" y="1179" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Astute RAG | Wang et al. (2025)</text></a>
+<polygon points="1481,1157 1528,1157 1528,1182 1504.5,1177 1481,1182" fill="#EF3159"/>
+<text x="1487.508544921875" y="1173" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="800" y="1273.0" width="250" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="837.2509765625" y="1317.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Response control</text>
+<rect x="1120" y="1238.0" width="350" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1171.171875" y="1282.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Context-aware decoding</text>
+<rect x="1540" y="1238" width="950" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2024.naacl-short.69/"><text x="1552" y="1265" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">CAD: increase context faithfulness | Shi et al. (2024)</text></a>
+<polygon points="1481,1243 1528,1243 1528,1268 1504.5,1263 1481,1268" fill="#EF3159"/>
+<text x="1487.508544921875" y="1259" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="1120" y="1324.0" width="350" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1150.947265625" y="1368.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Confidence-guided selection</text>
+<rect x="1540" y="1324" width="950" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2404.10198"><text x="1552" y="1351" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Confidence-based arbitration | Wu et al. (2024)</text></a>
+<polygon points="1481,1329 1528,1329 1528,1354 1504.5,1349 1481,1354" fill="#EF3159"/>
+<text x="1487.508544921875" y="1345" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="800" y="1409.0" width="250" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="881.9091796875" y="1453.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Training</text>
+<rect x="1120" y="1410.0" width="350" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<text x="1211.845703125" y="1454.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Anti-sycophancy</text>
+<rect x="1540" y="1410" width="950" height="74" rx="13" fill="#ffeef1" stroke="#FF476C" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2308.03958"><text x="1552" y="1437" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Synthetic-data intervention | Wei et al. (2023)</text></a>
+<a xlink:href="https://arxiv.org/abs/2311.08596"><text x="1552" y="1463" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Fine-tuning against answer flipping | Laban et al. (2023)</text></a>
+<polygon points="1481,1415 1528,1415 1528,1440 1504.5,1435 1481,1440" fill="#EDA900"/>
+<text x="1491.601318359375" y="1431" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">PRE</text>
+<rect x="140" y="2262.5" width="285" height="118" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="207.451171875" y="2302.5" font-family="DejaVu Serif,serif" font-size="20" font-weight="bold" fill="#20202A">Complicating</text>
+<text x="232.1923828125" y="2328.5" font-family="DejaVu Serif,serif" font-size="20" font-weight="bold" fill="#20202A">Evidence</text>
+<text x="198.857421875" y="2354.5" font-family="DejaVu Serif,serif" font-size="20" font-weight="bold" fill="#193B83">§3; Appendix D</text>
+<rect x="490" y="1690.0" width="240" height="110" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="544.13916015625" y="1726.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Sources and</text>
+<text x="554.90576171875" y="1752.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">conditions</text>
+<text x="562.73974609375" y="1778.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§3.1; D.1</text>
+<rect x="800" y="1544.0" width="670" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1040.81787109375" y="1573.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">New constraints /</text>
+<text x="1028.282470703125" y="1599.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">resource limitations</text>
+<rect x="1540" y="1543" width="950" height="72" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2402.01622"><text x="1552" y="1570" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">TravelPlanner: budgets and feasibility | Xie et al. (2024b)</text></a>
+<a xlink:href="https://aclanthology.org/2024.acl-long.257/"><text x="1552" y="1596" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">FollowBench: accumulated requirements | Jiang et al. (2024)</text></a>
+<rect x="800" y="1627.0" width="670" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1064.248046875" y="1656.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Preferences /</text>
+<text x="1022.001953125" y="1682.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">competing objectives</text>
+<rect x="1540" y="1627" width="950" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2506.04649"><text x="1552" y="1654" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Flex-TravelPlanner: prioritized constraints | Oh et al. (2025)</text></a>
+<rect x="800" y="1710.0" width="670" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1039.10546875" y="1739.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Context changes /</text>
+<text x="1004.554931640625" y="1765.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">sequential requirements</text>
+<rect x="1540" y="1709" width="950" height="72" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2410.15553"><text x="1552" y="1736" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Multi-IF: multi-turn instructions | He et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2505.06120"><text x="1552" y="1762" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Progressively specified tasks | Laban et al. (2025)</text></a>
+<rect x="800" y="1794.0" width="670" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1020.561279296875" y="1823.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Scope qualifications /</text>
+<text x="1077.99853515625" y="1849.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">exceptions</text>
+<rect x="1540" y="1793" width="950" height="72" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2020.findings-emnlp.418/"><text x="1552" y="1820" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Defeasible NLI | Rudinger et al. (2020)</text></a>
+<a xlink:href="https://aclanthology.org/2024.acl-short.51/"><text x="1552" y="1846" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Generics and exceptions | Leidinger et al. (2024)</text></a>
+<rect x="800" y="1877.0" width="670" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1033.1171875" y="1906.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Contraindications /</text>
+<text x="1038.94140625" y="1932.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">policy restrictions</text>
+<rect x="1540" y="1877" width="950" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2406.12045"><text x="1552" y="1904" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Domain policies limiting permitted actions | Yao et al. (2024)</text></a>
+<rect x="490" y="2083.0" width="240" height="110" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="514.556640625" y="2132.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Model behaviours</text>
+<text x="562.73974609375" y="2158.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§3.2; D.2</text>
+<rect x="800" y="1977.0" width="670" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="994.22412109375" y="2006.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Appropriate modification /</text>
+<text x="1038.1005859375" y="2032.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">constraint neglect</text>
+<rect x="1540" y="1976" width="950" height="72" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2506.04649"><text x="1552" y="2003" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Adaptation to new requirements | Oh et al. (2025)</text></a>
+<a xlink:href="https://arxiv.org/abs/2402.01622"><text x="1552" y="2029" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Tracking multiple constraints | Xie et al. (2024b)</text></a>
+<rect x="800" y="2061.0" width="670" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1012.7119140625" y="2090.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Unnecessary reversal /</text>
+<text x="996.45947265625" y="2116.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">loss of valid commitments</text>
+<rect x="1540" y="2060" width="950" height="72" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2024.acl-short.51/"><text x="1552" y="2087" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Instability under irrelevant additions | Leidinger et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2506.04649"><text x="1552" y="2113" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">New preferences displacing prior constraints | Oh et al. (2025)</text></a>
+<rect x="800" y="2145.0" width="670" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1001.212158203125" y="2174.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Premature commitment /</text>
+<text x="1035.296142578125" y="2200.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">overgeneralisation</text>
+<rect x="1540" y="2144" width="950" height="72" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2505.06120"><text x="1552" y="2171" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Early assumptions and failed recovery | Laban et al. (2025)</text></a>
+<a xlink:href="https://aclanthology.org/2024.acl-short.51/"><text x="1552" y="2197" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Generalizations and exceptions | Leidinger et al. (2024)</text></a>
+<rect x="800" y="2229.0" width="670" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="996.638916015625" y="2258.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Coexisting requirements /</text>
+<text x="1045.006591796875" y="2284.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">priority handling</text>
+<rect x="1540" y="2228" width="950" height="72" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2024.acl-long.257/"><text x="1552" y="2255" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Satisfying multiple constraints | Jiang et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2506.04649"><text x="1552" y="2281" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Explicitly prioritized requirements | Oh et al. (2025)</text></a>
+<rect x="490" y="2393.0" width="240" height="110" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="553.10107421875" y="2442.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Evaluation</text>
+<text x="562.73974609375" y="2468.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§3.3; D.3</text>
+<rect x="800" y="2330.0" width="670" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1010.502197265625" y="2359.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Conditional reasoning /</text>
+<text x="1016.16748046875" y="2385.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">constraint satisfaction</text>
+<rect x="1540" y="2329" width="950" height="72" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2020.findings-emnlp.418/"><text x="1552" y="2356" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Defeasible NLI | Rudinger et al. (2020)</text></a>
+<a xlink:href="https://arxiv.org/abs/2311.07911"><text x="1552" y="2382" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">IFEval: executable instruction checks | Zhou et al. (2023)</text></a>
+<rect x="800" y="2413.0" width="670" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="996.4697265625" y="2442.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Preference prioritization /</text>
+<text x="1040.084716796875" y="2468.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">dynamic planning</text>
+<rect x="1540" y="2413" width="950" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2506.04649"><text x="1552" y="2440" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Sequential and priority-based settings | Oh et al. (2025)</text></a>
+<rect x="800" y="2496.0" width="670" height="70" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1008.1181640625" y="2525.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Longitudinal retention /</text>
+<text x="1025.81640625" y="2551.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">updated information</text>
+<rect x="1540" y="2495" width="950" height="72" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2410.15553"><text x="1552" y="2522" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Multi-IF | He et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2410.10813"><text x="1552" y="2548" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">LongMemEval: memory and knowledge updates | Wu et al. (2025)</text></a>
+<rect x="490" y="2793.0" width="240" height="110" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="554.669921875" y="2842.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Mitigation</text>
+<text x="562.73974609375" y="2868.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§3.3; D.4</text>
+<rect x="800" y="2588.0" width="250" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="886.4453125" y="2619.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Explicit</text>
+<text x="844.921875" y="2645.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">representations</text>
+<rect x="1120" y="2596.0" width="350" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1195.6982421875" y="2640.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Constraint tracking</text>
+<rect x="1540" y="2596" width="950" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2304.11477"><text x="1552" y="2623" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">LLM+P: PDDL problem specification | Liu et al. (2023)</text></a>
+<polygon points="1481,2601 1528,2601 1528,2626 1504.5,2621 1481,2626" fill="#EF3159"/>
+<text x="1487.508544921875" y="2617" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="800" y="2674.0" width="250" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="834.287109375" y="2718.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Task organization</text>
+<rect x="1120" y="2682.0" width="350" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1219.53125" y="2726.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Decomposition</text>
+<rect x="1540" y="2682" width="950" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2023.acl-long.147/"><text x="1552" y="2709" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Plan-and-Solve prompting | Wang et al. (2023)</text></a>
+<polygon points="1481,2687 1528,2687 1528,2712 1504.5,2707 1481,2712" fill="#EF3159"/>
+<text x="1487.508544921875" y="2703" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="800" y="2803.0" width="250" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="839.3701171875" y="2847.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">External support</text>
+<rect x="1120" y="2768.0" width="350" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1210.95703125" y="2812.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Classical solvers</text>
+<rect x="1540" y="2768" width="950" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2304.11477"><text x="1552" y="2795" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">LLM+P: planning with external solvers | Liu et al. (2023)</text></a>
+<polygon points="1481,2773 1528,2773 1528,2798 1504.5,2793 1481,2798" fill="#EF3159"/>
+<text x="1487.508544921875" y="2789" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="1120" y="2854.0" width="350" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1235.7421875" y="2898.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Verification</text>
+<rect x="1540" y="2854" width="950" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2402.01817"><text x="1552" y="2881" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">LLM-Modulo: external critics | Kambhampati et al. (2024)</text></a>
+<polygon points="1481,2859 1528,2859 1528,2884 1504.5,2879 1481,2884" fill="#EF3159"/>
+<text x="1487.508544921875" y="2875" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="800" y="2932.0" width="250" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="840.537109375" y="2976.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Memory support</text>
+<rect x="1120" y="2940.0" width="350" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1186.0888671875" y="2984.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Context management</text>
+<rect x="1540" y="2940" width="950" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2310.08560"><text x="1552" y="2967" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">MemGPT: hierarchical memory | Packer et al. (2023)</text></a>
+<polygon points="1481,2945 1528,2945 1528,2970 1504.5,2965 1481,2970" fill="#EF3159"/>
+<text x="1487.508544921875" y="2961" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="800" y="3025.0" width="250" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="853.818359375" y="3056.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Feedback and</text>
+<text x="870.615234375" y="3082.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">adaptation</text>
+<rect x="1120" y="3026.0" width="350" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<text x="1171.5283203125" y="3070.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Replanning / refinement</text>
+<rect x="1540" y="3026" width="950" height="74" rx="13" fill="#fef6e8" stroke="#F5A400" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2210.03629"><text x="1552" y="3053" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">ReAct: update action plans | Yao et al. (2023)</text></a>
+<a xlink:href="https://arxiv.org/abs/2303.17651"><text x="1552" y="3079" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Self-Refine: iterative feedback | Madaan et al. (2023)</text></a>
+<polygon points="1481,3031 1528,3031 1528,3056 1504.5,3051 1481,3056" fill="#EF3159"/>
+<text x="1487.508544921875" y="3047" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="140" y="3921.5" width="285" height="118" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="161.6796875" y="3961.5" font-family="DejaVu Serif,serif" font-size="20" font-weight="bold" fill="#20202A">Uncertainty-Inducing</text>
+<text x="232.1923828125" y="3987.5" font-family="DejaVu Serif,serif" font-size="20" font-weight="bold" fill="#20202A">Evidence</text>
+<text x="199.9072265625" y="4013.5" font-family="DejaVu Serif,serif" font-size="20" font-weight="bold" fill="#193B83">§4; Appendix E</text>
+<rect x="490" y="3266.0" width="240" height="110" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="544.13916015625" y="3302.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Sources and</text>
+<text x="554.90576171875" y="3328.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">conditions</text>
+<text x="563.493408203125" y="3354.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§4.1; E.1</text>
+<rect x="800" y="3160.0" width="670" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1020.8330078125" y="3189.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Missing information /</text>
+<text x="1008.31298828125" y="3215.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">contextual insufficiency</text>
+<rect x="1540" y="3159" width="950" height="72" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2411.06037"><text x="1552" y="3186" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Sufficient Context | Joren et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2406.00922"><text x="1552" y="3212" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">MediQ: incomplete clinical information | Li et al. (2024)</text></a>
+<rect x="800" y="3244.0" width="670" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1073.512451171875" y="3273.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Ambiguity /</text>
+<text x="995.449462890625" y="3299.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">competing interpretations</text>
+<rect x="1540" y="3243" width="950" height="72" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2020.emnlp-main.466/"><text x="1552" y="3270" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">AmbigQA | Min et al. (2020)</text></a>
+<a xlink:href="https://aclanthology.org/2024.acl-long.578/"><text x="1552" y="3296" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">CLAMBER | Zhang et al. (2024)</text></a>
+<rect x="800" y="3328.0" width="670" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1021.37646484375" y="3357.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Unreliable evidence /</text>
+<text x="1005.42138671875" y="3383.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">unresolved explanations</text>
+<rect x="1540" y="3327" width="950" height="72" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2406.13805"><text x="1552" y="3354" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Unresolved passage disagreement | Hou et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2404.10198"><text x="1552" y="3380" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Incorrect retrieved evidence | Wu et al. (2024)</text></a>
+<rect x="800" y="3412.0" width="670" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1015.434326171875" y="3441.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Outcome uncertainty /</text>
+<text x="1042.10986328125" y="3467.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">high-risk settings</text>
+<rect x="1540" y="3411" width="950" height="72" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://proceedings.mlr.press/v229/ren23a.html"><text x="1552" y="3438" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">KnowNo: uncertain action selection | Ren et al. (2023)</text></a>
+<a xlink:href="https://arxiv.org/abs/2406.00922"><text x="1552" y="3464" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Clinical information seeking | Li et al. (2024)</text></a>
+<rect x="490" y="3660.0" width="240" height="110" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="514.556640625" y="3709.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Model behaviours</text>
+<text x="563.493408203125" y="3735.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§4.2; E.2</text>
+<rect x="800" y="3513.0" width="670" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1000.371337890625" y="3542.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Uncertainty recognition /</text>
+<text x="1013.9013671875" y="3568.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">confidence adjustment</text>
+<rect x="1540" y="3512" width="950" height="72" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2024.acl-long.578/"><text x="1552" y="3539" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Ambiguity identification | Zhang et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2306.13063"><text x="1552" y="3565" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Overconfidence and elicitation | Xiong et al. (2024)</text></a>
+<rect x="800" y="3597.0" width="670" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1020.7509765625" y="3626.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Information seeking /</text>
+<text x="1018.920654296875" y="3652.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">conditional responses</text>
+<rect x="1540" y="3596" width="950" height="72" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2212.07769"><text x="1552" y="3623" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">CLAM: clarification before answering | Kuhn et al. (2022)</text></a>
+<a xlink:href="https://arxiv.org/abs/2406.00922"><text x="1552" y="3649" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Follow-up questions before commitment | Li et al. (2024)</text></a>
+<rect x="800" y="3681.0" width="670" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1029.113037109375" y="3710.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Premature closure /</text>
+<text x="1058.6904296875" y="3736.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">false certainty</text>
+<rect x="1540" y="3680" width="950" height="72" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2505.06120"><text x="1552" y="3707" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Premature solutions | Laban et al. (2025)</text></a>
+<a xlink:href="https://arxiv.org/abs/2411.06037"><text x="1552" y="3733" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Answering despite insufficient context | Joren et al. (2024)</text></a>
+<rect x="800" y="3765.0" width="670" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1070.57470703125" y="3794.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Abstention /</text>
+<text x="999.438232421875" y="3820.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">assistance and escalation</text>
+<rect x="1540" y="3764" width="950" height="72" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2506.09038"><text x="1552" y="3791" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">AbstentionBench | Kirichenko et al. (2025)</text></a>
+<a xlink:href="https://proceedings.mlr.press/v229/ren23a.html"><text x="1552" y="3817" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">KnowNo: asking for human help | Ren et al. (2023)</text></a>
+<rect x="800" y="3848.0" width="670" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1033.2607421875" y="3877.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Excessive caution /</text>
+<text x="1028.190185546875" y="3903.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">unnecessary refusal</text>
+<rect x="1540" y="3848" width="950" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2024.naacl-long.301/"><text x="1552" y="3875" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">XSTest: exaggerated safety behaviour | Röttger et al. (2024)</text></a>
+<rect x="490" y="4053.0" width="240" height="110" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="553.10107421875" y="4102.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Evaluation</text>
+<text x="563.493408203125" y="4128.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§4.3; E.3</text>
+<rect x="800" y="3948.0" width="670" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1068.4521484375" y="3977.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Calibration /</text>
+<text x="1042.227783203125" y="4003.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">failure prediction</text>
+<rect x="1540" y="3947" width="950" height="72" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2306.13063"><text x="1552" y="3974" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Confidence calibration and discrimination | Xiong et al. (2024)</text></a>
+<a xlink:href="https://proceedings.mlr.press/v235/band24a.html"><text x="1552" y="4000" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">User-facing linguistic calibration | Band et al. (2024)</text></a>
+<rect x="800" y="4032.0" width="670" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1005.252197265625" y="4061.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Uncertainty estimation /</text>
+<text x="1030.3076171875" y="4087.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">selective prediction</text>
+<rect x="1540" y="4031" width="950" height="72" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2302.09664"><text x="1552" y="4058" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Semantic entropy | Kuhn et al. (2023)</text></a>
+<a xlink:href="https://aclanthology.org/2020.acl-main.503/"><text x="1552" y="4084" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Selective QA: accuracy-coverage trade-off | Kamath et al. (2020)</text></a>
+<rect x="800" y="4116.0" width="670" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1022.099365234375" y="4145.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Clarification quality /</text>
+<text x="1017.433837890625" y="4171.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">ambiguity recognition</text>
+<rect x="1540" y="4115" width="950" height="72" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2024.acl-long.578/"><text x="1552" y="4142" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">CLAMBER | Zhang et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2212.07769"><text x="1552" y="4168" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">CLAM: interactive clarification | Kuhn et al. (2022)</text></a>
+<rect x="800" y="4199.0" width="670" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="977.48974609375" y="4228.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Decisions under uncertainty /</text>
+<text x="1035.521728515625" y="4254.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">assistance seeking</text>
+<rect x="1540" y="4199" width="950" height="70" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://proceedings.mlr.press/v229/ren23a.html"><text x="1552" y="4226" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">KnowNo: task completion and human help | Ren et al. (2023)</text></a>
+<rect x="490" y="4495.0" width="240" height="110" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="554.669921875" y="4544.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Mitigation</text>
+<text x="563.493408203125" y="4570.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§4.3; E.4</text>
+<rect x="800" y="4340.0" width="250" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="845.7275390625" y="4371.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Confidence and</text>
+<text x="870.419921875" y="4397.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">expression</text>
+<rect x="1120" y="4298.0" width="350" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1179.9755859375" y="4342.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Elicitation / prompting</text>
+<rect x="1540" y="4298" width="950" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2306.13063"><text x="1552" y="4325" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Prompting, sampling, and aggregation | Xiong et al. (2024)</text></a>
+<polygon points="1481,4303 1528,4303 1528,4328 1504.5,4323 1481,4328" fill="#EF3159"/>
+<text x="1487.508544921875" y="4319" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="1120" y="4384.0" width="350" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1194.55078125" y="4428.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Calibration training</text>
+<rect x="1540" y="4384" width="950" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2205.14334"><text x="1552" y="4411" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Verbalized probability training | Lin et al. (2022)</text></a>
+<a xlink:href="https://proceedings.mlr.press/v235/band24a.html"><text x="1552" y="4437" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Linguistic calibration | Band et al. (2024)</text></a>
+<polygon points="1481,4389 1528,4389 1528,4414 1504.5,4409 1481,4414" fill="#EDA900"/>
+<text x="1491.601318359375" y="4405" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">PRE</text>
+<rect x="800" y="4512.0" width="250" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="819.78515625" y="4556.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Evidence acquisition</text>
+<rect x="1120" y="4470.0" width="350" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1202.12890625" y="4514.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Selective retrieval</text>
+<rect x="1540" y="4470" width="950" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2310.11511"><text x="1552" y="4497" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Self-RAG: adaptive retrieval and critique | Asai et al. (2024)</text></a>
+<polygon points="1481,4475 1528,4475 1528,4500 1504.5,4495 1481,4500" fill="#EDA900"/>
+<text x="1491.601318359375" y="4491" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">PRE</text>
+<polygon points="1481,4506 1528,4506 1528,4531 1504.5,4526 1481,4531" fill="#EF3159"/>
+<text x="1487.508544921875" y="4522" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="1120" y="4556.0" width="350" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1232.0703125" y="4600.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Clarification</text>
+<rect x="1540" y="4556" width="950" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2212.07769"><text x="1552" y="4583" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">CLAM: detect, clarify, answer | Kuhn et al. (2022)</text></a>
+<a xlink:href="https://arxiv.org/abs/2406.00922"><text x="1552" y="4609" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">MediQ: adaptive question asking | Li et al. (2024)</text></a>
+<polygon points="1481,4561 1528,4561 1528,4586 1504.5,4581 1481,4586" fill="#EF3159"/>
+<text x="1487.508544921875" y="4577" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="800" y="4677.0" width="250" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="827.8857421875" y="4721.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Response selection</text>
+<rect x="1120" y="4642.0" width="350" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1190.4541015625" y="4686.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Selective generation</text>
+<rect x="1540" y="4642" width="950" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2411.06037"><text x="1552" y="4669" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Context-guided abstention | Joren et al. (2024)</text></a>
+<a xlink:href="https://aclanthology.org/2020.acl-main.503/"><text x="1552" y="4695" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Trained error predictor and abstention | Kamath et al. (2020)</text></a>
+<polygon points="1481,4647 1528,4647 1528,4672 1504.5,4667 1481,4672" fill="#EDA900"/>
+<text x="1491.601318359375" y="4663" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">PRE</text>
+<polygon points="1481,4678 1528,4678 1528,4703 1504.5,4698 1481,4703" fill="#EF3159"/>
+<text x="1487.508544921875" y="4694" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="1120" y="4728.0" width="350" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<text x="1198.9990234375" y="4772.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">Assistance seeking</text>
+<rect x="1540" y="4728" width="950" height="74" rx="13" fill="#e8f7fc" stroke="#00ACE0" stroke-width="2.4"/>
+<a xlink:href="https://proceedings.mlr.press/v229/ren23a.html"><text x="1552" y="4755" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">KnowNo: conformal prediction and help | Ren et al. (2023)</text></a>
+<polygon points="1481,4733 1528,4733 1528,4758 1504.5,4753 1481,4758" fill="#EDA900"/>
+<text x="1491.601318359375" y="4749" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">PRE</text>
+<polygon points="1481,4764 1528,4764 1528,4789 1504.5,4784 1481,4789" fill="#EF3159"/>
+<text x="1487.508544921875" y="4780" font-family="DejaVu Serif,serif" font-size="11" font-weight="bold" fill="#FFFFFF">POST</text>
+<rect x="140" y="5239.0" width="285" height="118" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="147.568359375" y="5279.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="bold" fill="#20202A">Cross-Cutting Synthesis</text>
+<text x="209.287109375" y="5305.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="bold" fill="#20202A">(Orthogonal)</text>
+<text x="151.8603515625" y="5331.0" font-family="DejaVu Serif,serif" font-size="20" font-weight="bold" fill="#193B83">§5; A.4–A.5; Appendix F</text>
+<rect x="490" y="4919.0" width="240" height="110" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="502.718505859375" y="4968.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Evidence properties</text>
+<text x="573.593505859375" y="4994.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§5; A.5</text>
+<rect x="800" y="4861.0" width="670" height="58" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="1047.35986328125" y="4897.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Conflict location</text>
+<rect x="1540" y="4861" width="950" height="58" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2024.emnlp-main.486/"><text x="1552" y="4888" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Context-memory; inter-context; intra-memory | Xu et al. (2024)</text></a>
+<rect x="800" y="4932.0" width="670" height="70" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="1001.78125" y="4961.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Reliability / provenance /</text>
+<text x="1019.94091796875" y="4987.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">evidence dependence</text>
+<rect x="1540" y="4931" width="950" height="72" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2025.acl-long.1476/"><text x="1552" y="4958" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Source-aware reliability | Wang et al. (2025)</text></a>
+<a xlink:href="https://arxiv.org/abs/2305.13300"><text x="1552" y="4984" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Agreement and evidence presentation | Xie et al. (2024a)</text></a>
+<rect x="800" y="5022.0" width="670" height="58" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="1041.6689453125" y="5058.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Temporal validity</text>
+<rect x="1540" y="5015" width="950" height="72" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2021.emnlp-main.586/"><text x="1552" y="5042" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Time and geographical applicability | Zhang and Choi (2021)</text></a>
+<a xlink:href="https://arxiv.org/abs/2410.10813"><text x="1552" y="5068" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Temporal reasoning and knowledge updates | Wu et al. (2025)</text></a>
+<rect x="490" y="5223.0" width="240" height="110" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="541.216796875" y="5259.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Decision and</text>
+<text x="551.62451171875" y="5285.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">interaction</text>
+<text x="550.74267578125" y="5311.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§5; A.4–A.5</text>
+<rect x="800" y="5117.0" width="670" height="70" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="1048.5595703125" y="5146.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Decision scope /</text>
+<text x="1023.832275390625" y="5172.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">affected components</text>
+<rect x="1540" y="5116" width="950" height="72" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2305.14795"><text x="1552" y="5143" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Dependent conclusions | Zhong et al. (2023)</text></a>
+<a xlink:href="https://arxiv.org/abs/2506.04649"><text x="1552" y="5169" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Actions and retained constraints | Oh et al. (2025)</text></a>
+<rect x="800" y="5207.0" width="670" height="58" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="1019.0078125" y="5243.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Response distinctions</text>
+<rect x="1540" y="5200" width="950" height="72" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2024.emnlp-main.586/"><text x="1552" y="5227" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Revision versus preservation | Wilie et al. (2024)</text></a>
+<a xlink:href="https://aclanthology.org/2020.findings-emnlp.418/"><text x="1552" y="5253" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Strengthening or weakening an inference | Rudinger et al. (2020)</text></a>
+<rect x="800" y="5285.0" width="670" height="70" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="1036.32666015625" y="5314.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Interaction order /</text>
+<text x="1020.96630859375" y="5340.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">length and continuity</text>
+<rect x="1540" y="5284" width="950" height="72" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<a xlink:href="https://aclanthology.org/2024.tacl-1.9/"><text x="1552" y="5311" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Position of relevant information | Liu et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2410.10813"><text x="1552" y="5337" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Multi-session memory | Wu et al. (2025)</text></a>
+<rect x="800" y="5369.0" width="670" height="70" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="1011.88134765625" y="5398.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Rationale faithfulness /</text>
+<text x="1019.85888671875" y="5424.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">expressed confidence</text>
+<rect x="1540" y="5368" width="950" height="72" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2305.04388"><text x="1552" y="5395" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Explanations can omit causal influences | Turpin et al. (2023)</text></a>
+<a xlink:href="https://proceedings.mlr.press/v235/band24a.html"><text x="1552" y="5421" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">How statements inform user judgments | Band et al. (2024)</text></a>
+<rect x="490" y="5547.0" width="240" height="110" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="542.842041015625" y="5583.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Settings and</text>
+<text x="535.3310546875" y="5609.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">interpretation</text>
+<text x="526.72802734375" y="5635.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">§5; B.3; F.4–F.6</text>
+<rect x="800" y="5483.0" width="670" height="70" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="1062.192138671875" y="5512.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Applications /</text>
+<text x="1021.2841796875" y="5538.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">high-stakes decisions</text>
+<rect x="1540" y="5469" width="950" height="98" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2402.01622"><text x="1552" y="5496" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Travel planning | Xie et al. (2024b)</text></a>
+<a xlink:href="https://arxiv.org/abs/2406.00922"><text x="1552" y="5522" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Clinical reasoning | Li et al. (2024)</text></a>
+<a xlink:href="https://proceedings.mlr.press/v229/ren23a.html"><text x="1552" y="5548" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Embodied assistance | Ren et al. (2023)</text></a>
+<rect x="800" y="5586.0" width="670" height="58" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="1025.985595703125" y="5622.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Language / modality</text>
+<rect x="1540" y="5579" width="950" height="72" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2410.15553"><text x="1552" y="5606" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Multi-IF: eight languages | He et al. (2024)</text></a>
+<a xlink:href="https://proceedings.mlr.press/v229/ren23a.html"><text x="1552" y="5632" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Embodied planning; not universal multimodal coverage | Ren et al. (2023)</text></a>
+<rect x="800" y="5664.0" width="670" height="70" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<text x="1032.732666015625" y="5693.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">Metrics / prompts /</text>
+<text x="1018.028564453125" y="5719.0" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#20202A">evaluation robustness</text>
+<rect x="1540" y="5663" width="950" height="72" rx="13" fill="#f4effb" stroke="#8B50D8" stroke-width="2.4"/>
+<a xlink:href="https://arxiv.org/abs/2310.11324"><text x="1552" y="5690" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">Prompt-format sensitivity | Sclar et al. (2024)</text></a>
+<a xlink:href="https://arxiv.org/abs/2306.05685"><text x="1552" y="5716" font-family="DejaVu Serif,serif" font-size="21" font-weight="normal" fill="#193B83">LLM-judge biases | Zheng et al. (2023)</text></a>
+<text x="140" y="5827" font-family="DejaVu Serif,serif" font-size="22" font-weight="normal" fill="#20202A">§ = main-text section; lettered references = appendix subsections</text>
+<text x="140" y="5858" font-family="DejaVu Serif,serif" font-size="20" font-weight="normal" fill="#20202A">PRE = preparatory training / calibration; POST = evidence-time inference / response processing; both = combined stages.</text>
+</svg>
