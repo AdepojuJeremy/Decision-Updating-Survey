@@ -13,8 +13,10 @@ The repository currently contains **47 distinct literature records**, organized 
 Missing a relevant paper or found an error? [Open an issue](https://github.com/AdepojuJeremy/Decision-Updating-Survey/issues) or submit a pull request with the primary publication link.
 
 <p align="center">
-  <a href="figures/figure-1.jpg"><img src="figures/figure-1.jpg" alt="Decision updating: three evidence categories and illustrative travel-planning scenarios" width="760"></a>
+  <a href="figures/figure-3.svg"><img src="figures/figure-3.svg" alt="Taxonomy of decision updating in LLMs: contradictory, complicating, and uncertainty-inducing evidence, with orthogonal cross-cutting synthesis" width="950"></a>
 </p>
+
+[View full-size taxonomy](figures/figure-3.svg) · [PDF](figures/figure-3.pdf) · [Larger branch panels](figures/figure-3-panels.pdf) · [Editable draw.io](figures/editable/figure-3.drawio)
 
 ## Overview
 
@@ -29,10 +31,6 @@ The survey distinguishes three evidence categories by how incoming information r
 These categories can overlap. Their presence alone does not prescribe a response: source reliability, temporal validity, evidence dependence, decision scope, interaction history, and application setting also matter.
 
 Each evidence category is reviewed through **sources and conditions, model behaviours, evaluation approaches, and mitigation approaches**. **Cross-Cutting Synthesis (Orthogonal)** captures dimensions shared across the categories; it is not a fourth evidence type.
-
-<p align="center">
-  <a href="figures/figure-2.jpg"><img src="figures/figure-2.jpg" alt="Incoming evidence, decision updating, potential failure modes, and evidence-sensitive responses" width="900"></a>
-</p>
 
 The examples and ribbons in the figures are conceptual illustrations, not measured frequencies or new experimental results.
 
@@ -176,17 +174,6 @@ Shared dimensions include reliability, provenance, temporal applicability, depen
 
 The survey also discusses multilinguality and multimodality as cross-cutting research directions. Coverage in one language, modality, or benchmark does not establish general updating competence.
 
-<details>
-<summary><strong>View the full taxonomy (Figure 3)</strong></summary>
-
-<p align="center">
-  <a href="figures/figure-3.svg"><img src="figures/figure-3.svg" alt="Four-branch taxonomy with three evidence categories and explicitly orthogonal cross-cutting synthesis" width="950"></a>
-</p>
-
-[Vector SVG](figures/figure-3.svg) · [Vector PDF](figures/figure-3.pdf) · [Larger branch panels](figures/figure-3-panels.pdf) · [Editable draw.io](figures/editable/figure-3.drawio)
-
-</details>
-
 ## Datasets and benchmarks
 
 The [benchmark catalogue](docs/benchmarks.md) distinguishes direct updating evaluations from supporting capabilities, including Belief-R, ClashEval, WikiContradict, Flex-TravelPlanner, TravelPlanner, FollowBench, IFEval, Multi-IF, LongMemEval, MQuAKE, AmbigQA, CLAMBER, CLAM, MediQ, selective QA, AbstentionBench, XSTest, KnowNo, and τ-bench.
@@ -202,6 +189,24 @@ Published metrics retain their task-specific interpretation. Final-answer accura
 | **3. Taxonomy of decision updating in LLMs** | [Image](figures/figure-3.svg) | [draw.io](figures/editable/figure-3.drawio) | [SVG](figures/figure-3.svg), [PDF](figures/figure-3.pdf), [panels](figures/figure-3-panels.pdf) |
 
 Open `.drawio` files in [diagrams.net](https://app.diagrams.net/). Figure 1 and Figure 2 have editable vector recreations of their illustrated previews; individual icon details can differ. Figure 3 provides a vector master and an editable taxonomy. See [figure notes](figures/README.md) for the legend and attribution.
+
+<details>
+<summary><strong>Figure 1: Decision updating and illustrative evidence scenarios</strong></summary>
+
+<p align="center">
+  <a href="figures/figure-1.jpg"><img src="figures/figure-1.jpg" alt="Decision updating: three evidence categories and illustrative travel-planning scenarios" width="760"></a>
+</p>
+
+</details>
+
+<details>
+<summary><strong>Figure 2: Cross-cutting failure modes and evidence-sensitive responses</strong></summary>
+
+<p align="center">
+  <a href="figures/figure-2.jpg"><img src="figures/figure-2.jpg" alt="Incoming evidence, decision updating, potential failure modes, and evidence-sensitive responses" width="900"></a>
+</p>
+
+</details>
 
 ## Paper structure
 
